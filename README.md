@@ -2,7 +2,9 @@
 <h3 align="center">A passionate software engineer from China, living in Europe</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif"
 
-- 🌱 I’m currently learning **ReactJs and IBM Full Stack Software Developer Professional Certificate**
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=117isabell&label=Profile%20views&color=0e75b6&style=flat" alt="117isabell" /> </p>
+ 
+- 🌱 I’m currently doing **an MSc in computer science in University of London** and learning full stack developement.
 
 - 👨‍💻 All of my projects are available at [https://github.com/117Isabell](https://github.com/117Isabell)
 
