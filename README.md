@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peifang Luo</h1>
-<h3 align="center">A passionate software engineer from China, living in Europe</h3>
+<h3 align="left">A passionate software engineer from China, living in Europe</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 
 - 🌱 I’m currently doing **an MSc in computer science in University of London** and learning full stack development.
