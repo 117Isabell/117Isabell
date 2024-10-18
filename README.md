@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/117Isabell](https://github.com/117Isabell)
 
-- 📫 How to reach me **isabellhepburn@outlook.com**
+- 📫 How to reach me **lpfisabell@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
