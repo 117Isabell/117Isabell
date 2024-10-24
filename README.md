@@ -2,7 +2,7 @@
 <h3 align="left">A passionate software engineer from China, living in Europe</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 
-- 🌱 I’m currently doing **an MSc in computer science in University of London** and learning full stack development.
+- 🌱 I’m currently doing **an MSc in computer science in University of London** and I have experience in full stack development. I'm also into AI/ML, expecially in NLP.
 
 - 👨‍💻 All of my projects are available at [https://github.com/117Isabell](https://github.com/117Isabell)
 
