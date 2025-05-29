@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently doing **an MSc in computer science in University of London** and I have experience in full stack development. I'm also into AI/ML, expecially in NLP.
 
+- 👨‍💻 My portfolio [https://peifangluo-dev.vercel.app/]
 - 👨‍💻 All of my projects are available at [https://github.com/117Isabell](https://github.com/117Isabell)
 
 - 📫 How to reach me **lpfisabell@gmail.com**
