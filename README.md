@@ -3,9 +3,10 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 
 - 🌱 I’m currently doing **an MSc in computer science in University of London** and I have experience in full stack development. I'm also into AI/ML, expecially in NLP.
-
-- 👨‍💻 My portfolio (https://peifangluo-dev.vercel.app/)
-- 👨‍💻 All of my projects are available at (https://github.com/117Isabell](https://github.com/117Isabell)
+  
+- 👨‍💻 [My portfolio](https://peifangluo-dev.vercel.app/)
+  
+- 👨‍💻 [All of my projects are available at GitHub](https://github.com/117Isabell)
 
 - 📫 How to reach me **lpfisabell@gmail.com**
 
