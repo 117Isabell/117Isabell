@@ -2,7 +2,7 @@
 <h3 align="left">A passionate software engineer from China, living in Europe</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 
-- 🌱 I’m currently doing **an MSc in computer science in University of London** and I have experience in full stack development. I'm also into AI/ML, expecially in NLP.
+- 🌱 I’m currently working as a full-time  **React dev** and doing **an MSc in computer science in University of London** and I have experience in full stack development. I'm also into AI/ML, expecially in NLP.
   
 - 👨‍💻 [My portfolio](https://peifangluo-dev.vercel.app/)
   
